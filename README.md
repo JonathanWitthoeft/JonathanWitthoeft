@@ -1,11 +1,11 @@
 <a href="https://www.connectsense.com">
    <img alt="ConnectSenseImg" src="https://cdn.shopify.com/s/files/1/0070/7336/6074/t/10/assets/logo-svg.svg?v=17447913548098449033"
-   width="450">
+   width="350">
 </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.gridconnect.com">
    <img alt="GridConnectImg" src="https://cdn.shopify.com/s/files/1/0026/8579/6388/t/30/assets/logo-home.svg?v=9097423943567601328"
-   width="450">
+   width="350">
 </a>
 <br><br>
 
